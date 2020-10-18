@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [PostgreSQL](https://www.postgresql.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🌟 Funcionalidade Extras
+## 🌟 Funcionalidades Extras
 
 - Contato pelo WhatsApp (Concluído)
 - Utilizar localização dinâmica do usuário (Concluído)
@@ -41,4 +41,4 @@ Escrevi um artigo relatando a minha experiência nesta edição, o que eu aprend
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
