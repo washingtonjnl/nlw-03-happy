@@ -1,0 +1,16 @@
+backend/node_modules
+backend/.git/
+backend/.gitignore
+backend/.env
+backend/uploads/*
+
+web/node_modules
+web/.git/
+web/.gitignore
+web/.env
+
+mobile/node_modules
+mobile/.git/
+mobile/.gitignore
+
+.DS_Store
